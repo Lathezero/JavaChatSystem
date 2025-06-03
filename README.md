@@ -171,7 +171,6 @@ java App
 
 
 ## 十二、许可证
-[待补充]（建议添加MIT/Apache等开源许可证）
-
 **项目地址**：https://github.com/lathezero/JavaChatSystem 
+
 **文档地址**：局域网聊天室系统设计与实现.docx（含详细设计与代码说明）
