@@ -54,15 +54,15 @@ java ServerAdminFrame
 
 #### 服务端
 
-![服务端](imgs\img\服务端.png)
+![服务端](imgs/img/服务端.png)
 
 #### 启动服务器
 
-![启动服务器](imgs\启动服务器.png)
+![启动服务器](imgs/启动服务器.png)
 
 #### 管理员界面
 
-![管理员界面](imgs\管理员界面.png)
+![管理员界面](imgs/管理员界面.png)
 
 ### 2. 客户端
 
@@ -81,19 +81,19 @@ java App
 
 #### 客户端
 
-![客户端](imgs\img\客户端.png)
+![客户端](imgs/img/客户端.png)
 
 #### 首页
 
-![输入ip和port](imgs\输入ip和port.png)
+![输入ip和port](imgs/输入ip和port.png)
 
 #### 账号登录
 
-![输入账号密码](imgs\输入账号密码.png)
+![输入账号密码](imgs/输入账号密码.png)
 
 #### 聊天界面
 
-![聊天界面](imgs\聊天界面.png)
+![聊天界面](imgs/聊天界面.png)
 
 ## 六、项目结构
 
@@ -141,7 +141,7 @@ java App
 | 性能测试       | 支持50+客户端并发连接，响应时间<1秒                                  |
 | 异常处理测试   | 网络断开后自动重连，客户端异常退出时服务器正确清理连接               |
 
-![人数测试](imgs\人数测试.png)
+![人数测试](imgs/人数测试.png)
 
 ## 九、未来扩展方向
 
@@ -167,11 +167,11 @@ java App
 ## 十一、联系方式
 如有问题或建议，可通过以下方式联系：  
 - Email：linzifei0127@outlook.com  
-- Issue：https://github.com/lathezero/JavaChatSys/issues
+- Issue：https://github.com/lathezero/JavaChatSystem/issues
 
 
 ## 十二、许可证
 [待补充]（建议添加MIT/Apache等开源许可证）
 
-**项目地址**：https://github.com/lathezero/JavaChatSys 
+**项目地址**：https://github.com/lathezero/JavaChatSystem 
 **文档地址**：局域网聊天室系统设计与实现.docx（含详细设计与代码说明）
